@@ -2,6 +2,12 @@
 Name: Abhishek kathar
 Email: akathar1@binghamton.edu
 
+Project: Secure Purchasing System.
+
+Implemented using JAVA and RSA public key and private key Encryption/Decryption algorithm.      
+Verification and validation of the bank account details (account/card no, balance) are implemented and the data flow between customer-purchasing system-bank are secured and encrypted using RSA Encryption and Decryption Algorithms.
+
+
 *************************************
 Coding language of the project : JAVA
 *************************************
